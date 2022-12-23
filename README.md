@@ -18,3 +18,13 @@ You can run it with the following command.
 python  main.py
 ```
 
+
+
+## Experiment Result
+
+AUC scores on the Boiler data set.
+
+|  1->2  |  1->3  |  2>1   |  2->3  |  3->1  |  3->2  | mean   |
+| :----: | :----: | :----: | :----: | :----: | :----: | ------ |
+| 0.7260 | 0.9599 | 0.8575 | 0.9451 | 0.9175 | 0.6835 | 0.8483 |
+
