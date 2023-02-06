@@ -1,4 +1,4 @@
-# [Time Series Domain Adaptation via Sparse Associative Structure Alignment]([AAAI2021](Time Series Domain Adaptation via Sparse Associative Structure Alignment))
+# [Time Series Domain Adaptation via Sparse Associative Structure Alignment]([AAAI2021]([Time Series Domain Adaptation via Sparse Associative Structure Alignment](https://ojs.aaai.org/index.php/AAAI/article/view/16846)))
 
 ## Requirements
 
